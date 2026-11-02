@@ -11,6 +11,7 @@
 |---|--------|----------------------|
 | 1 | Лабораторная работа № 1 | [PKYAP_Lab1](https://github.com/DariaLimarenko/PKYAP_Lab1) |
 | 2 | Лабораторная работа № 2 | [PKYAP_Lab2](https://github.com/DariaLimarenko/PKYAP_Lab2) |
+| 3–4 | Лабораторная работа № 3–4 | [PKYAP_Lab3-4](https://github.com/DariaLimarenko/PKYAP_Lab3-4) |
 
 ## Рубежные контроли
 
